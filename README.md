@@ -2,12 +2,16 @@
 <br>I am a Web Developer & QA Enthusiast passionate about developing technology-driven solutions to drive digital innovation. With experience in Laravel, Vue.js, JavaScript, and SQL, I enjoy building efficient, scalable, and user-friendly systems.<br>
 <br>
 💡 Passion & Expertise:<br>
-- Web Development: Building and optimizing applications using Laravel & Vue.js.<br>
-- Quality Assurance (QA): Ensuring software quality through manual and automated testing <br>
-- IoT & AI: Developing air quality monitoring systems using IoT and machine learning.<br>
-- Data-Driven Thinking: Analyzing and managing data using SQL & Python.<br><br>
+  - Web Development: Building and optimizing applications using Laravel & Vue.js.<br>
+  - Quality Assurance (QA): Ensuring software quality through manual and automated testing <br>
+  - IoT & AI: Developing air quality monitoring systems using IoT and machine learning.<br>
+  - Data-Driven Thinking: Analyzing and managing data using SQL & Python.<br><br>
   
-  🎯 More Than Just Code:<br>Beyond technology, I have leadership experience as the President of Rebana State Polytechnic of Semarang and was actively involved in Himpunan Mahasiswa Islam (HMI) in Entrepreneurship & Professional Development.<br><br>🌱 Always Learning & Innovating<br>I am continuously improving my skills in QA Engineering, software testing, and AI & IoT-based system development. I believe technology can provide solutions to many global challenges, and I want to be part of that change!<br><br>📬 Let’s Connect & Collaborate! 🚀
+🎯 More Than Just Code:<br>
+Beyond technology, I have leadership experience as the President of Rebana State Polytechnic of Semarang and was actively involved in Himpunan Mahasiswa Islam (HMI) in Entrepreneurship & Professional Development.<br><br>
+
+🌱 Always Learning & Innovating<br>
+I am continuously improving my skills in QA Engineering, software testing, and AI & IoT-based system development. I believe technology can provide solutions to many global challenges, and I want to be part of that change!<br><br>📬 Let’s Connect & Collaborate! 🚀
 
 
 ## 🌐 Socials:

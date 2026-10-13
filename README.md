@@ -7,8 +7,9 @@
   - IoT & AI: Developing air quality monitoring systems using IoT and machine learning.<br>
   - Data-Driven Thinking: Analyzing and managing data using SQL & Python.<br><br>
   
-🎯 More Than Just Code:<br>
+<!-- 🎯 More Than Just Code:<br>
 Beyond technology, I have leadership experience as the President of Rebana State Polytechnic of Semarang and was actively involved in Himpunan Mahasiswa Islam (HMI) in Entrepreneurship & Professional Development.<br><br>
+-->
 
 🌱 Always Learning & Innovating<br>
 I am continuously improving my skills in QA Engineering, software testing, and AI & IoT-based system development. I believe technology can provide solutions to many global challenges, and I want to be part of that change!<br><br>📬 Let’s Connect & Collaborate! 🚀
